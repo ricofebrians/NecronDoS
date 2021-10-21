@@ -6,8 +6,12 @@
 ### [+] Installation
 ```
 git clone https://github.com/ricofebrians/NecronDoS
+```
 
+```
 cd NecronDoS
+```
 
+```
 python3 necron.py
 ```
